@@ -8,7 +8,7 @@
 }
 body{
   min-height: 100vh;
-  background: rgb(8, 4, 0);
+  background: rgb(17, 17, 17);
 }
 body, .container, .video-controls, .video-timer, .options{
   display: flex;
